@@ -1,4 +1,4 @@
-# Site percolation and bon percolation algorithm on networks
+# Site percolation and bond percolation algorithm on networks
 
 This is a julia implementation of the Newman-Ziff's algorithm for site percolation on networks. It is meant to be fast, complete and readable.
 
